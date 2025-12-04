@@ -84,7 +84,7 @@ def main():
     
 
     print(f"Part 1 result is: { len(part_1(grid)) }")
-    print(f"Part 1 result is: { part_2(grid) }")
+    print(f"Part 2 result is: { part_2(grid) }")
 
     print("End of line.")
     return 0
